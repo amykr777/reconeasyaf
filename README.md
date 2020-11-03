@@ -17,7 +17,7 @@ $ git clone https://github.com/amykr777/reconeasyaf
 $ cd reconeasyaf
 $ sudo bash reconeasyaf.sh <domain>
 ```
-![alt text](https://github.com/amykr777/reconeasyaf/blob/main/recon.jpg "reconeasyaf")
+![alt text](https://github.com/amykr777/reconeasyaf/blob/main/recon.png "reconeasyaf")
 
 # Setup
  ReconEasyAF relies on a couple of tools to be installed so make sure you have them:
