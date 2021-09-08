@@ -6,7 +6,7 @@
 ## Features:
 
 - Enumerates Subdomains in Seconds.
-- Checks for live subdomains
+- Checks for live subdomains.
 - Fetches all URLs/Links of domain.
 - Enumerates all JS files from domain.
 
